@@ -41,6 +41,11 @@ A Steam Deck boots into ES-DE and acts as a universal emulation front end for a 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=flat&logo=retroarch&logoColor=white)
 
+## Related in the AIOS Portfolio
+
+- **[NAS Plex Tools](https://github.com/mikecutillo/nas-plex-tools)** — Python toolkit for Plex libraries on the same NAS; renaming, flattening, metadata backfill
+- **[Twin Sync](https://github.com/mikecutillo/twin-sync)** — Mac/PC workflow sync via rsync + shared NAS; another Mac/PC/NAS-resident workflow
+
 ---
 
 Part of the AIOS portfolio. See the [profile README](https://github.com/mikecutillo) for the full system map.
